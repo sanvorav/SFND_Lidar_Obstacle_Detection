@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-SFND_Lidar_Obstacle_Detection",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
